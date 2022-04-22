@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/devala/.dotnet/store/|arch|/|tfm|",
+      "/Users/devala/.nuget/packages"
+    ]
+  }
+}

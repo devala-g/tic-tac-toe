@@ -1,0 +1,13 @@
+/Users/devala/Desktop/C#_projects/Tic-Tac-toe/Tic-Tac-toe/bin/Debug/netcoreapp3.1/Tic-Tac-toe.deps.json
+/Users/devala/Desktop/C#_projects/Tic-Tac-toe/Tic-Tac-toe/bin/Debug/netcoreapp3.1/Tic-Tac-toe.runtimeconfig.json
+/Users/devala/Desktop/C#_projects/Tic-Tac-toe/Tic-Tac-toe/bin/Debug/netcoreapp3.1/Tic-Tac-toe.runtimeconfig.dev.json
+/Users/devala/Desktop/C#_projects/Tic-Tac-toe/Tic-Tac-toe/bin/Debug/netcoreapp3.1/Tic-Tac-toe.dll
+/Users/devala/Desktop/C#_projects/Tic-Tac-toe/Tic-Tac-toe/bin/Debug/netcoreapp3.1/Tic-Tac-toe.pdb
+/Users/devala/Desktop/C#_projects/Tic-Tac-toe/Tic-Tac-toe/obj/Debug/netcoreapp3.1/Tic-Tac-toe.csproj.AssemblyReference.cache
+/Users/devala/Desktop/C#_projects/Tic-Tac-toe/Tic-Tac-toe/obj/Debug/netcoreapp3.1/Tic-Tac-toe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devala/Desktop/C#_projects/Tic-Tac-toe/Tic-Tac-toe/obj/Debug/netcoreapp3.1/Tic-Tac-toe.AssemblyInfoInputs.cache
+/Users/devala/Desktop/C#_projects/Tic-Tac-toe/Tic-Tac-toe/obj/Debug/netcoreapp3.1/Tic-Tac-toe.AssemblyInfo.cs
+/Users/devala/Desktop/C#_projects/Tic-Tac-toe/Tic-Tac-toe/obj/Debug/netcoreapp3.1/Tic-Tac-toe.csproj.CoreCompileInputs.cache
+/Users/devala/Desktop/C#_projects/Tic-Tac-toe/Tic-Tac-toe/obj/Debug/netcoreapp3.1/Tic-Tac-toe.dll
+/Users/devala/Desktop/C#_projects/Tic-Tac-toe/Tic-Tac-toe/obj/Debug/netcoreapp3.1/Tic-Tac-toe.pdb
+/Users/devala/Desktop/C#_projects/Tic-Tac-toe/Tic-Tac-toe/obj/Debug/netcoreapp3.1/Tic-Tac-toe.genruntimeconfig.cache
